@@ -1,0 +1,2 @@
+adaptor[generative]>=0.1.6
+torch
